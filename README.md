@@ -2,7 +2,7 @@
 Project Details
 
 Background & Project Goal
-Airbnb is an online platform, where people post their listings and rent their apartments or spare rooms to guests. According to the Airbnb website, the marketplace monetizes this process by taking a 3% commission from hosts and 0% - 20% from guests. As the prices of the listings increase, the revenues of Airbnb also increase. In our project, we would like to understand how successful Airbnb is in maximizing value for all the stakeholders and itself. We aim to develop models for understanding:
+Airbnb is an online platform, where people post their listings and rent their apartments or spare rooms to guests. According to the Airbnb website, the marketplace monetizes this process by taking a 3% commission from hosts and 0% - 20% from guests. As the prices of the listings increase, the revenues of Airbnb also increase. In this project, I would like to understand how successful Airbnb is in maximizing value for all the stakeholders and itself. I aim to develop models for understanding:
 1)	How can hosts make the most out of it?
 2)	Can guests find what they are looking for easily and accurately?
 
