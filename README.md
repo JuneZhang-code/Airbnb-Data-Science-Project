@@ -7,6 +7,7 @@ Airbnb is an online platform, where people post their listings and rent their ap
 2)	Can guests find what they are looking for easily and accurately?
 
 Data Sources
+
 Inside Airbnb provides publicly available Airbnb data for non-commercial entities to perform analysis on certain factors like understanding residential housing market. The link for the data is: http://insideairbnb.com/get-the-data.html. Among all the cities provided on Inside Airbnb website, I decided to use NYC data for my analysis. It consists of over 47,500 listings and more than 1 million reviews.
 
 Methodology
